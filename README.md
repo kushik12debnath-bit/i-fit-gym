@@ -35,6 +35,8 @@ vercel --prod
 
 Or import the GitHub repository in the Vercel dashboard.
 
+The first production deploy was created with the Vercel CLI. To enable automatic deploys on every push, connect the repo under **Vercel → Project → Settings → Git**.
+
 ## Business details used
 
 - 4.6★ from 83 Google reviews
