@@ -4,7 +4,7 @@ Single-page website for I-FIT Gym & Fitness Club, a premium unisex gym in Bankim
 
 ## Live
 
-- **Vercel:** deployment URL will be added after the first deploy
+- **Vercel:** https://i-fit-gym.vercel.app
 - **GitHub:** https://github.com/kushik12debnath-bit/i-fit-gym
 
 ## Stack
